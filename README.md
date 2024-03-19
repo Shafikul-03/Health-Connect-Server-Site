@@ -1,4 +1,4 @@
-
+* To run this project please write down this below command
 # node index.js
 
 
