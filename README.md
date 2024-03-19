@@ -1,4 +1,5 @@
 * To run this project please write down this below command
+  # npm install
 # node index.js
 
 
